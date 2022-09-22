@@ -15,7 +15,7 @@ The server-api branch have been included with the project api.
 **Software Editor** 
 - Visual Studio Code
 
-**Programming Language and Framework**
+**Programming Language**
 - HTML
 - Javascript
 - CSS
