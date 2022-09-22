@@ -33,9 +33,9 @@ The server-api branch have been included with the project api.
 
 1. Download and extract the files (main and server-api).
 2. Open command prompt from both files.
-3. Run the command prompt for server-api by inserting "nodemon app" command. It is to run the server and connect to the database(MongoDB) using api.
+3. Run the command prompt for server-api folder by inserting "nodemon app" command. It is to run the server and connect to the database(MongoDB) using api.
 4. If the problems arise, insert "npm install -g nodemon" command to installed the nodemon globally to your system path.
-5. Next run the command prompt for main by inserting "npm install" command to install npm which is a package manager for the JavaScript programming language. npm is the default package manager for the JavaScript runtime environment Node.js.
+5. Next run the command prompt for main folder by inserting "npm install" command to install npm which is a package manager for the JavaScript programming language. npm is the default package manager for the JavaScript runtime environment Node.js.
 6. Lastly, insert the "npm start" command to start the project website.
 
 
