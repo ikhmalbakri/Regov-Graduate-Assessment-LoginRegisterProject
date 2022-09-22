@@ -30,13 +30,13 @@ The project have been included with main and server-api branch.
 - CSS
 
 **Framework**
-- React JS
+- React JS (Front End)
 
 **Database**
 - MongoDB
 
 **Server and API (Application Programming Interface)**
-- Node JS 
+- Node JS (Back End)
 
 ## Note
 
