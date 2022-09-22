@@ -4,7 +4,7 @@ Backend Developer (Graduate Trainee) Application | Pop Quiz - main project
 
 ## Introduction and Solution
 
-This project have three features which are the User Registration, Sign In, and User Profile. The project was developed using React JS(front end) and Node JS(back end). The database that was used for the project was the MongoDB which was the cloud database. 
+This project have three features which are the **User Registration**, **Sign In**, and **User Profile**. The project was developed using React JS(front end) and Node JS(back end). The database that was used for the project was the MongoDB which was the cloud database. 
 
 For the all the features in this project have been implemented with api (Node JS and mongoose) to connect with the database (MongoDB).
 
