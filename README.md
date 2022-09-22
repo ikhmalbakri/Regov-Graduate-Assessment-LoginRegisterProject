@@ -38,7 +38,11 @@ The project have been included with main and server-api branch.
 **Server and API (Application Programming Interface)**
 - Node JS 
 
+## Note
 
+Make sure to have these installed:
+- Node JS: https://nodejs.org/en/
+- React JS: https://www.geeksforgeeks.org/how-to-install-reactjs-on-windows/
 
 
 
